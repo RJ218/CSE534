@@ -1,7 +1,7 @@
 # CSE534
 Sentiment Analysis using Fabric Testbed
 
-Sentiment Analysis is the process of analysing digital text to determine if the emotional tone of the message is positive, negative, or neutral. [1]
+Sentiment Analysis is the process of analysing digital text to determine if the emotional tone of the message is positive, negative, or neutral.
 
 This Sentiment analysis on social media data has become a very valuable tool for businesses which seek rapid feedback from customers. Social media platforms like Twitter (now X) contain an ocean of opinions that can inform decision making if used efficiently. This project examines the integration of real-time sentiment classification with the FABRIC testbed infrastructure to empower business owners through actionable insights from Twitter chatter.
 
