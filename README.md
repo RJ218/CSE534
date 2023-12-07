@@ -1,5 +1,5 @@
-# CSE534
-Sentiment Analysis using Fabric Testbed
+# CSE534 - Sentiment Analysis using Fabric Testbed
+
 
 Sentiment Analysis is the process of analysing digital text to determine if the emotional tone of the message is positive, negative, or neutral.
 
